@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nephohfeik.club-tension.com/sitemap.xml
